@@ -50,7 +50,7 @@ The landscape of **AI voice synthesis** has shifted from basic concatenation to 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-### Comprehensive List of Text-to-Speech (TTS) Resources 🌐
+### Comprehensive List of Text-to-Speech (TTS) Resources 
 
 #### ☁️ Cloud-based & Commercial AI Voice Generation Platforms
 
