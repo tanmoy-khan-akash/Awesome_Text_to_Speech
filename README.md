@@ -2,33 +2,20 @@
   <img src="banner.svg" alt="Awesome Text-to-Speech Banner" width="100%" />
 </div>
 
-# Awesome Text-to-Speech (TTS) 🗣️: Best AI Voice Generation Models & Tools 2026
+------------------------------------------------------------------------------------------------------------------------------------------
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Text-to-Speech?style=social&color=gold)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Text-to-Speech?style=social&color=blue)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/network)
-[![GitHub license](https://img.shields.io/github/license/ishandutta2007/Awesome-Text-to-Speech?style=social)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/blob/master/LICENSE)
-[![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg?style=social&logo=python&logoColor=white)](https://www.python.org/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](http://makeapullrequest.com)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ishandutta2007?style=social&color=pink)](https://github.com/sponsors/ishandutta2007)
-[![Last Commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Text-to-Speech?style=social)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/commits/master)
-[![Contributors](https://img.shields.io/github/contributors/ishandutta2007/Awesome-Text-to-Speech?style=social)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/graphs/contributors)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/ishandutta2007?style=social&logo=twitter)](https://twitter.com/ishandutta2007)
-<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+### Awesome Text-to-Speech (TTS) 🗣️: Best AI Voice Generation Models & Tools 2026
 
----
-
-### 🚀 The Ultimate Guide to AI Voice Generation, Speech Synthesis, and Neural Voice Cloning
+#### 🚀 The Ultimate Guide to AI Voice Generation, Speech Synthesis, and Neural Voice Cloning
 
 Welcome to the most comprehensive, meticulously curated, and continuously updated list of **Text-to-Speech (TTS)** resources. Whether you are looking for the **best open-source TTS models of 2026**, searching for **low-latency TTS APIs for AI agents**, or exploring **high-fidelity voice cloning for content creation**, you've found the right place.
 
 > [!TIP]
 > **Looking for the best ElevenLabs alternatives?** This repository tracks the rapidly evolving landscape of both commercial SaaS and local-first neural speech synthesis.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🗺️ Quick Navigation
+### Quick Navigation
 
 - [Why Text-to-Speech?](#-why-explore-text-to-speech)
 - [Current Trends (2026)](#-current-state-of-text-to-speech-as-of-2024-)
@@ -38,9 +25,9 @@ Welcome to the most comprehensive, meticulously curated, and continuously update
 - [Research & Community](#-notable-research-papers--community-discussions-)
 - [FAQ & Use Cases](#-frequently-asked-questions--seo-insights)
 
----
+------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🔊 Why Explore Text-to-Speech?
+### Why Explore Text-to-Speech?
 
 Text-to-Speech technology has moved beyond robotic voices. Today, it powers:
 *   **Accessibility First:** High-quality screen readers for the visually impaired.
@@ -49,9 +36,9 @@ Text-to-Speech technology has moved beyond robotic voices. Today, it powers:
 *   **Multilingual Support:** Instant translation and dubbing for global reach.
 *   **Personalization:** Custom voice clones for gaming and virtual assistants.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📈 Current State of Text-to-Speech (2026 Update)
+### Current State of Text-to-Speech (2026 Update)
 
 The landscape of **AI voice synthesis** has shifted from basic concatenation to advanced **Generative Speech Models**. Key highlights:
 
@@ -61,11 +48,13 @@ The landscape of **AI voice synthesis** has shifted from basic concatenation to 
 -   **Advanced Voice Cloning and Style Transfer:** Cutting-edge techniques allow for high-fidelity voice cloning from minimal audio samples and the transfer of speaking style and emotion across different voices. 🎭
 -   **Multilingual and Cross-Lingual TTS:** Models are increasingly capable of generating speech in numerous languages with accurate pronunciation and intonation, breaking down language barriers.
 
-## 📚 Comprehensive List of Text-to-Speech (TTS) Resources 🌐
+------------------------------------------------------------------------------------------------------------------------------------------
 
-### ☁️ Cloud-based & Commercial AI Voice Generation Platforms
+### Comprehensive List of Text-to-Speech (TTS) Resources 🌐
 
-Leading platforms offering robust, scalable, and high-quality Text-to-Speech APIs and services for various applications. *Sorted by Company Scale / Valuation (Descending).*
+#### ☁️ Cloud-based & Commercial AI Voice Generation Platforms
+
+Leading platforms offering robust, scalable, and high-quality Text-to-Speech APIs and services for various applications. * Sorted by Company Scale / Valuation (Descending). *
 
 | 🛠️ Service/Model | 🏢 Organization | 🌟 Key Features | 💰 Min. Monthly Subscription | 👥 Company Size | 🔗 Link |
 | --- | --- | --- | --- | --- | --- |
@@ -96,9 +85,11 @@ Leading platforms offering robust, scalable, and high-quality Text-to-Speech API
 | **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | **Free** (API Credits) / Enterprise | **<$1M** (Indie) | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) |
 | **RunAPI ElevenLabs SDK** | RunAPI | Multi-language SDKs for ElevenLabs text-to-speech, dialogue generation, sound effects, transcription, and audio isolation workflows. | Pay-as-you-go | **<$1M** (Indie) | [RunAPI ElevenLabs SDK](https://github.com/runapi-ai/elevenlabs-sdk) |
 
-### 🏗️ Open-Source Text-to-Speech Libraries & Local-First Projects
+------------------------------------------------------------------------------------------------------------------------------------------
 
-If you are looking for **free text-to-speech models for commercial use** or want to run **TTS locally on a CPU**, these open-source projects provide the best balance of quality and privacy. *Sorted by GitHub Star Counts (Descending).*
+### Open-Source Text-to-Speech Libraries & Local-First Projects
+
+If you are looking for **free text-to-speech models for commercial use** or want to run **TTS locally on a CPU**, these open-source projects provide the best balance of quality and privacy. * Sorted by GitHub Star Counts (Descending). *
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tjZndxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx66i7dG5m/giphy.gif" alt="Sound Wave Animation" width="300px" />
@@ -131,7 +122,9 @@ If you are looking for **free text-to-speech models for commercial use** or want
 | **LocalMode** | LocalMode | **In-browser TTS.** Runs Kokoro (29 voices) and other AI models 100% in the browser via WebGPU/WASM. No server, no API keys, offline after first load. | JavaScript / TypeScript | [![GitHub stars](https://img.shields.io/github/stars/LocalMode-AI/LocalMode?style=social&color=white)](https://github.com/LocalMode-AI/LocalMode/stargazers) |
 | **Vocello** | PowerBeef | **Native Mac & iPhone app.** Qwen3-TTS with preset speakers, natural-language voice design, and voice cloning. Runs entirely on Apple Silicon with no Python runtime, faster than realtime on an 8 GB M2. | Swift / MLX | [![GitHub stars](https://img.shields.io/github/stars/PowerBeef/Vocello?style=social&color=white)](https://github.com/PowerBeef/Vocello/stargazers) |
 
-### Advanced Voice Cloning & Neural Voice Synthesis 🧬
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### Advanced Voice Cloning & Neural Voice Synthesis
 
 Dedicated resources and examples focusing on the latest in voice replication and advanced synthetic voice generation.
 
@@ -151,13 +144,17 @@ Dedicated resources and examples focusing on the latest in voice replication and
 -   **MeloTTS:** A multi-language, multi-speaker Text-to-Speech model capable of generating high-quality audio.
     *   [MeloTTS on GitHub](https://github.com/myshell-ai/MeloTTS)
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Hugging Face 🤗 - The Hub for TTS Models
 
 [Hugging Face](https://huggingface.co/) has emerged as a central ecosystem for sharing, discovering, and experimenting with a vast array of pretrained Text-to-Speech models. Explore their extensive collection for diverse applications and research.
 
--   [Browse TTS Models on Hugging Face](https://huggingface.co/models?pipeline_tag=text-to-speech)
+- [Browse TTS Models on Hugging Face](https://huggingface.co/models?pipeline_tag=text-to-speech)
 
-### Notable Research Papers & Community Discussions 📝
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### Notable Research Papers & Community Discussions
 
 Stay updated with the latest breakthroughs and discussions in the TTS community.
 
@@ -180,7 +177,9 @@ Stay updated with the latest breakthroughs and discussions in the TTS community.
 -   **[[D] Why Flow Matching is replacing traditional Diffusion in TTS](https://www.reddit.com/r/MachineLearning/):** Technical deep-dive into the "straightening" of ODE paths for faster, higher-quality audio generation.
 -   **[An Automated Failure-Mode QA Framework for Neural Text-to-Speech Systems](https://doi.org/10.5281/zenodo.20757553):** A production case study introducing automated failure-mode detection for TTS output, with [ttsproof (https://github.com/Mormolykos/ttsproof) as its open-source implementation.
 
-### Exemplary Code Samples & Project Demos 💻
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### Exemplary Code Samples & Project Demos
 
 A collection of influential code repositories and product demonstrations showcasing various Text-to-Speech implementations and their output quality. *Sorted by Year of Launch (Descending).*
 
@@ -227,17 +226,21 @@ A collection of influential code repositories and product demonstrations showcas
 | [r9y9's Wavenet Vocoder Tacotron2 Samples](https://r9y9.github.io/wavenet_vocoder/) | [Download Tacotron2 model](https://www.dropbox.com/s/vx7y4qqs732sqgg/pretrained.tar.gz?dl=0) - [Download Wavenet model](https://www.dropbox.com/s/zdbfprugbagfp2w/20180510_mixture_lj_checkpoint_step000320000_ema.pth?dl=0) - [Get models](https://github.com/r9y9/wavenet_vocoder#pre-trained-models) | -- | [1712.05884](https://arxiv.org/abs/1712.05884) and [1611.09482](https://arxiv.org/abs/1611.09482) | B | 2017 | Samples from a Tacotron 2 and WaveNet vocoder combination. |
 | [Griffin-Lim Samples](https://nv-adlr.github.io/WaveGlow) | -- | -- | -- | A | 1984 | Classic samples from the Griffin-Lim algorithm for spectrogram inversion. |
 
-## Work in Progress & Future of Text-to-Speech 🚧
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### Work in Progress & Future of Text-to-Speech
 
 Ongoing projects and cutting-edge research shaping the next generation of AI voice synthesis.
 
--   https://github.com/ErnstTmp is implementing https://arxiv.org/abs/1807.06736
--   https://github.com/nii-yamagishilab/self-attention-tacotron
--   https://github.com/nii-yamagishilab/tacotron2
+- https://github.com/ErnstTmp is implementing https://arxiv.org/abs/1807.06736
+- https://github.com/nii-yamagishilab/self-attention-tacotron
+- https://github.com/nii-yamagishilab/tacotron2
 
 If I missed your output sample/demo in this consolidation, just add and send a pull request. I will be more than happy to add it. Thanks!
 
-## Codelabs & Interactive Tutorials 🧪
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### Codelabs & Interactive Tutorials
 
 Practical guides and interactive notebooks for experimenting with Text-to-Speech models.
 
@@ -247,7 +250,9 @@ Practical guides and interactive notebooks for experimenting with Text-to-Speech
 -   [GPT-SoVITS WebUI & Colab Notebook](https://github.com/RVC-Boss/GPT-SoVITS) — One-click training and web interface for zero-shot and few-shot voice cloning.
 -   [Kokoro-TTS Hugging Face Space](https://huggingface.co/spaces/hexgrad/Kokoro-TTS) — Live interactive playground for testing Kokoro-82M studio voices.
 
-## Product Demos & Showcase Videos 🎥
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### Product Demos & Showcase Videos 
 
 Visual demonstrations of advanced Text-to-Speech and voice cloning in action.
 
@@ -263,13 +268,17 @@ Visual demonstrations of advanced Text-to-Speech and voice cloning in action.
 -   [Hume AI: Empathic Voice Interface](https://youtu.be/I3l4XLZ59iw) (AI that responds to human emotion)
 -   [Kyutai Moshi Demo](https://moshi.chat/) (First open-source full-duplex conversational model)
 
-## Related Works & Foundational Research 📚
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### Related Works & Foundational Research 
 
 Broader projects and research efforts that contribute to the Text-to-Speech ecosystem.
 
--   https://github.com/tensorflow/magenta
+- https://github.com/tensorflow/magenta
 
-## Arxiv Sanity Preserver - Key Papers in Speech Synthesis 📄
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### Arxiv Sanity Preserver - Key Papers in Speech Synthesis 
 
 Explore influential academic papers and preprints in the field of Text-to-Speech and voice AI.
 
@@ -283,28 +292,9 @@ Explore influential academic papers and preprints in the field of Text-to-Speech
 -   [Scalable Diffusion Transformers with Spatiotemporal Masking](https://arxiv.org/abs/2212.09748) (The DiT core used in high-fidelity audio generation)
 -   [StyleTTS 2: Towards Human-Level TTS with Style Diffusion](https://arxiv.org/abs/2306.07691) (The architecture behind Kokoro-TTS)
 
-##  Star History
-<div align="center">
-<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Text-to-Speech&type=date&legend=bottom-right">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Text-to-Speech&type=date&theme=dark&legend=bottom-right" />
-<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Text-to-Speech&type=date&legend=bottom-right" />
-<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Text-to-Speech&type=date&legend=bottom-right" />
-</picture>
-</a>
-</div>
+------------------------------------------------------------------------------------------------------------------------------------------
 
-## 💬 Community & Support for Text-to-Speech Enthusiasts
-
-Connect with the community, get support, and stay informed about the latest in TTS.
-
--   **📚 [Documentation](https://docs.open-workflows.com):** Check out our official documentation for detailed guides and tutorials on utilizing TTS technologies.
--   **🗣️ [Forum](https://community.open-workflows.com):** Join our community forum to ask questions, share your Text-to-Speech projects, and connect with other users and developers.
--   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions on AI voice generation.
--   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news, updates, and insights into the world of synthetic speech.
--   **🐦 [Github](https://github.com/ishandutta2007):** Follow me on Github for the latest commits and updates on this and other AI projects.
-
-## 🎯 Key Use Cases for AI Voice Generation
+### Key Use Cases for AI Voice Generation
 
 Explore how **Text-to-Speech** and **Voice Cloning** are being used across industries:
 
@@ -314,35 +304,22 @@ Explore how **Text-to-Speech** and **Voice Cloning** are being used across indus
 *   **📖 Accessible E-Learning:** Making educational content accessible with natural-sounding voices.
 *   **🎬 Content Localization:** Dubbing videos into multiple languages while preserving the original speaker's emotion.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------
 
-## ❓ Frequently Asked Questions (FAQ) & SEO Insights
+### Frequently Asked Questions (FAQ) & SEO Insights
 
-### What is the best open-source Text-to-Speech model in 2026?
+#### What is the best open-source Text-to-Speech model in 2026?
 As of 2026, **Kokoro-82M** is widely considered the best for CPU-based local inference due to its studio quality and small footprint. For high-fidelity and expressive speech, **F5-TTS** and **Fish Speech** are leading the way in naturalness.
 
-### Are there free ElevenLabs alternatives for voice cloning?
+#### Are there free ElevenLabs alternatives for voice cloning?
 Yes! Projects like **Coqui XTTS-v2**, **GPT-SoVITS**, and **OpenVoice** offer high-quality voice cloning for free. If you are looking for local-first alternatives, check out **F5-TTS** and **CosyVoice**.
 
-### How do I achieve low-latency TTS for AI agents?
+#### How do I achieve low-latency TTS for AI agents?
 To achieve sub-200ms latency, it is recommended to use **Deepgram Aura**, **Cartesia Sonic**, **Smallest.ai**, or optimized local models like **Piper** (C++ implementation) and **Kokoro-82M** with ONNX runtime.
 
-### Can I use these TTS models for commercial projects?
+#### Can I use these TTS models for commercial projects?
 Many models listed here (like **OpenAI TTS**, **ElevenLabs**, and **Azure AI Speech**) have clear commercial tiers. For open-source models, look for those with **MIT** or **Apache 2.0** licenses, such as **Piper** and **Kokoro**.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------
 
-## 💖 Support & Sponsorship
-
-If you find this collection of Text-to-Speech resources helpful, or if it has saved you time and effort in your AI voice generation endeavors, please consider sponsoring the development. Your support helps maintain the project, add new cutting-edge models and tools, and keep this initiative open-source and accessible to everyone.
-
-**[Sponsor @ishandutta2007 on GitHub](https://github.com/sponsors/ishandutta2007)**
-
--   [PAYPAL](https://paypal.me/ishandutta2007)
--   [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
-
-Every contribution, no matter how small, makes a huge difference in advancing the Text-to-Speech landscape! 🙏
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+These resources are perfect for both beginners and advanced learners.
