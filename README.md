@@ -6,7 +6,7 @@
 
 ### Awesome Text-to-Speech (TTS) 🗣️: Best AI Voice Generation Models & Tools 2026
 
-#### 🚀 The Ultimate Guide to AI Voice Generation, Speech Synthesis, and Neural Voice Cloning
+#### ✨ The Ultimate Guide to AI Voice Generation, Speech Synthesis, and Neural Voice Cloning
 
 Welcome to the most comprehensive, meticulously curated, and continuously updated list of **Text-to-Speech (TTS)** resources. Whether you are looking for the **best open-source TTS models of 2026**, searching for **low-latency TTS APIs for AI agents**, or exploring **high-fidelity voice cloning for content creation**, you've found the right place.
 
